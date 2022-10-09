@@ -1,1 +1,0 @@
-Blockchain study jams
