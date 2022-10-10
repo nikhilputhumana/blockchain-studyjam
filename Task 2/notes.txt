@@ -1,0 +1,6 @@
+In terminal
+npx hardhat
+
+Compile: npx hardhat compile
+
+[resume from 1:01:45]
